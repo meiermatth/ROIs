@@ -1,0 +1,1093 @@
+{
+    "shared": {
+        "current injection amplitude [pA]": 50, 
+        "DAQ package size": 6144, 
+        "DAQ high channel": 2, 
+        "DAQ low channel": 0, 
+        "fs_tiff": 7.51201923076923, 
+        "DAQ acquisition rate": 2000, 
+        "DAQ start time": ""
+    }, 
+    "stimulus protocol": [
+        {
+            "count": 1, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016166349088960086, 
+                    "2016-11-15_17.56.36.596000", 
+                    3.9935999999999998, 
+                    3.9967199999999998
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9832993907022023, 
+                    "2016-11-15_17.56.34.596000", 
+                    1.9967999999999999, 
+                    1.9978400000000001
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015299412963044, 
+                    "2016-11-15_17.56.40.595000", 
+                    7.9871999999999996, 
+                    7.99552
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "150", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "100", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 2, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016128289232646864, 
+                    "2016-11-15_17.56.45.661000", 
+                    13.04576, 
+                    13.061360000000001
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.983399286230835, 
+                    "2016-11-15_17.56.43.660000", 
+                    11.048959999999999, 
+                    11.061440000000001
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015116348455145, 
+                    "2016-11-15_17.56.49.659000", 
+                    17.039359999999999, 
+                    17.06016
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "250", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "0", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 3, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.015994415002079876, 
+                    "2016-11-15_17.56.54.741000", 
+                    22.097919999999998, 
+                    22.14264
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9834379335260337, 
+                    "2016-11-15_17.56.52.742000", 
+                    20.101120000000002, 
+                    20.142720000000001
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015070590057629, 
+                    "2016-11-15_17.56.58.740000", 
+                    26.091519999999999, 
+                    26.141439999999999
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "225", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "25", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 4, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016132926908071, 
+                    "2016-11-15_17.57.03.823000", 
+                    31.150079999999999, 
+                    31.22392
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9832400593746158, 
+                    "2016-11-15_17.57.01.823000", 
+                    29.153279999999999, 
+                    29.224
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015251150220799, 
+                    "2016-11-15_17.57.07.822000", 
+                    35.143680000000003, 
+                    35.222719999999995
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "200", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "50", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 5, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.015601140126129565, 
+                    "2016-11-15_17.57.12.903000", 
+                    40.202240000000003, 
+                    40.304159999999996
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9837829765775723, 
+                    "2016-11-15_17.57.10.904000", 
+                    38.205440000000003, 
+                    38.305279999999996
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.014742860994339, 
+                    "2016-11-15_17.57.16.903000", 
+                    44.195839999999997, 
+                    44.303999999999995
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "150", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "100", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 6, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016214240817170378, 
+                    "2016-11-15_17.57.21.985000", 
+                    49.254399999999997, 
+                    49.38544000000001
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9832954023013372, 
+                    "2016-11-15_17.57.19.985000", 
+                    47.257599999999996, 
+                    47.38656000000001
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015136754227015, 
+                    "2016-11-15_17.57.25.984000", 
+                    53.381120000000003, 
+                    53.385279999999995
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "225", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "25", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 7, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.015783555359462298, 
+                    "2016-11-15_17.57.31.065000", 
+                    58.439680000000003, 
+                    58.466720000000009
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9835269768941686, 
+                    "2016-11-15_17.57.29.066000", 
+                    56.442880000000002, 
+                    56.46784000000001
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015014937952543, 
+                    "2016-11-15_17.57.35.065000", 
+                    62.433280000000003, 
+                    62.465520000000005
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "250", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "0", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 8, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.01615271432322629, 
+                    "2016-11-15_17.57.40.130000", 
+                    67.491839999999996, 
+                    67.531360000000006
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9832459337634702, 
+                    "2016-11-15_17.57.38.131000", 
+                    65.495040000000003, 
+                    65.531440000000003
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015084812262273, 
+                    "2016-11-15_17.57.44.130000", 
+                    71.485439999999997, 
+                    71.530160000000009
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "250", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "0", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 9, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.015936289470090514, 
+                    "2016-11-15_17.57.49.211000", 
+                    76.543999999999997, 
+                    76.612639999999999
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9831652382111002, 
+                    "2016-11-15_17.57.47.212000", 
+                    74.547200000000004, 
+                    74.61272000000001
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015258570501473, 
+                    "2016-11-15_17.57.53.210000", 
+                    80.537599999999998, 
+                    80.611440000000002
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "225", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "25", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 10, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.01623835672937446, 
+                    "2016-11-15_17.57.58.276000", 
+                    85.596159999999998, 
+                    85.67728000000001
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9832845810586832, 
+                    "2016-11-15_17.57.56.276000", 
+                    83.599360000000004, 
+                    83.677360000000007
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.0151769474140195, 
+                    "2016-11-15_17.58.02.275000", 
+                    89.589759999999998, 
+                    89.676080000000013
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "175", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "75", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 11, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.015993796645346947, 
+                    "2016-11-15_17.58.07.357000", 
+                    94.648319999999998, 
+                    94.757520000000014
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.983605817376386, 
+                    "2016-11-15_17.58.05.357000", 
+                    92.651520000000005, 
+                    92.75864
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.014789237748573, 
+                    "2016-11-15_17.58.11.356000", 
+                    98.641919999999999, 
+                    98.756320000000002
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "200", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "50", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 12, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016319670638466732, 
+                    "2016-11-15_17.58.16.438000", 
+                    103.8336, 
+                    103.83879999999999
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.98334919933626, 
+                    "2016-11-15_17.58.14.439000", 
+                    101.8368, 
+                    101.83888
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015090995829496, 
+                    "2016-11-15_17.58.20.437000", 
+                    107.8272, 
+                    107.83760000000002
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "225", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "25", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 13, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016341931480511107, 
+                    "2016-11-15_17.58.25.519000", 
+                    112.88576, 
+                    112.92008000000001
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9831933734420062, 
+                    "2016-11-15_17.58.23.520000", 
+                    110.88896, 
+                    110.92016000000001
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015386261164807, 
+                    "2016-11-15_17.58.29.518000", 
+                    116.87936000000001, 
+                    116.91888000000002
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "150", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "100", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 14, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.015969989911496896, 
+                    "2016-11-15_17.58.34.601000", 
+                    121.93792000000001, 
+                    122.00135999999999
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9833389964503283, 
+                    "2016-11-15_17.58.32.601000", 
+                    119.94112, 
+                    120.00144000000002
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.014987111899984, 
+                    "2016-11-15_17.58.38.599000", 
+                    125.93152000000001, 
+                    126.00016000000002
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "175", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "75", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 15, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.01591928466021386, 
+                    "2016-11-15_17.58.43.664000", 
+                    130.99008000000001, 
+                    131.06496000000001
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9833621848274277, 
+                    "2016-11-15_17.58.41.665000", 
+                    128.99328, 
+                    129.06608000000003
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.014981546689512, 
+                    "2016-11-15_17.58.47.664000", 
+                    134.98367999999999, 
+                    135.06480000000002
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "175", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "75", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 16, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016307303503992898, 
+                    "2016-11-15_17.58.52.746000", 
+                    140.04223999999999, 
+                    140.14624000000003
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.983303440938755, 
+                    "2016-11-15_17.58.50.747000", 
+                    138.04544000000001, 
+                    138.14736000000002
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.0151543773936, 
+                    "2016-11-15_17.58.56.745000", 
+                    144.03584000000001, 
+                    144.14608000000004
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "200", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "50", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 17, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.01575356505838954, 
+                    "2016-11-15_17.59.01.827000", 
+                    149.22752, 
+                    149.22752000000003
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.983627769040055, 
+                    "2016-11-15_17.58.59.828000", 
+                    147.0976, 
+                    147.22864000000001
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.0145966196292875, 
+                    "2016-11-15_17.59.05.826000", 
+                    153.22112000000001, 
+                    153.22632000000002
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "175", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "75", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 18, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.01602007680608608, 
+                    "2016-11-15_17.59.10.908000", 
+                    158.27968000000001, 
+                    158.30880000000002
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9833776437455413, 
+                    "2016-11-15_17.59.08.909000", 
+                    156.28288000000001, 
+                    156.30888000000002
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015424290103283, 
+                    "2016-11-15_17.59.14.908000", 
+                    162.27328, 
+                    162.30760000000004
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "200", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "50", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 19, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.0161752843436318, 
+                    "2016-11-15_17.59.19.973000", 
+                    167.33184, 
+                    167.37344000000002
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9827889681450301, 
+                    "2016-11-15_17.59.17.973000", 
+                    165.33503999999999, 
+                    165.37352000000004
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.0150962518616495, 
+                    "2016-11-15_17.59.23.972000", 
+                    171.32543999999999, 
+                    171.37224000000003
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "150", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "100", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 20, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.01631997981684208, 
+                    "2016-11-15_17.59.29.054000", 
+                    176.38399999999999, 
+                    176.45368000000002
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9832378951260807, 
+                    "2016-11-15_17.59.27.054000", 
+                    174.38720000000001, 
+                    174.45480000000003
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015288251624185, 
+                    "2016-11-15_17.59.33.053000", 
+                    180.3776, 
+                    180.45248000000004
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "200", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "50", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 21, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016457564187732032, 
+                    "2016-11-15_17.59.38.135000", 
+                    185.43616, 
+                    185.53496000000004
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9833173539650204, 
+                    "2016-11-15_17.59.36.136000", 
+                    183.43935999999999, 
+                    183.53504000000004
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015193643045535, 
+                    "2016-11-15_17.59.42.135000", 
+                    189.42975999999999, 
+                    189.53376
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "150", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "100", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 22, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016150550074684134, 
+                    "2016-11-15_17.59.47.217000", 
+                    194.48831999999999, 
+                    194.61624000000006
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9833232283538678, 
+                    "2016-11-15_17.59.45.216000", 
+                    192.49152000000001, 
+                    192.61632
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015105527212484, 
+                    "2016-11-15_17.59.51.215000", 
+                    198.61503999999999, 
+                    198.61504000000002
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "250", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "0", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 23, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.015988849791568782, 
+                    "2016-11-15_17.59.56.297000", 
+                    203.67359999999999, 
+                    203.69752
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9832295473103159, 
+                    "2016-11-15_17.59.54.298000", 
+                    201.67679999999999, 
+                    201.69760000000002
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015113875028277, 
+                    "2016-11-15_18.00.00.296000", 
+                    207.66720000000001, 
+                    207.69632000000004
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "225", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "25", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 24, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.015983902937790617, 
+                    "2016-11-15_18.00.05.378000", 
+                    212.72576000000001, 
+                    212.77776
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9831745135619485, 
+                    "2016-11-15_18.00.03.379000", 
+                    210.72896, 
+                    210.77888000000004
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015252696112611, 
+                    "2016-11-15_18.00.09.378000", 
+                    216.71935999999999, 
+                    216.77760000000006
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "200", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "50", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 25, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016144675685808352, 
+                    "2016-11-15_18.00.14.459000", 
+                    221.77791999999999, 
+                    221.85904000000002
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.98341196254367, 
+                    "2016-11-15_18.00.12.460000", 
+                    219.78111999999999, 
+                    219.86016000000006
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.014974126408816, 
+                    "2016-11-15_18.00.18.459000", 
+                    225.77152000000001, 
+                    225.85888
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "225", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "25", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 26, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.015191787975396664, 
+                    "2016-11-15_18.00.23.524000", 
+                    230.83008000000001, 
+                    230.92368000000005
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9844096811165173, 
+                    "2016-11-15_18.00.21.525000", 
+                    228.83328, 
+                    228.92480000000006
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.014083383549064, 
+                    "2016-11-15_18.00.27.523000", 
+                    234.82368, 
+                    234.92248000000006
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "250", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "0", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 27, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016126434162487158, 
+                    "2016-11-15_18.00.32.605000", 
+                    239.88224, 
+                    240.00496000000004
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9834295857102688, 
+                    "2016-11-15_18.00.30.605000", 
+                    237.88543999999999, 
+                    238.00504000000006
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015153140680184, 
+                    "2016-11-15_18.00.36.604000", 
+                    243.87584000000001, 
+                    244.00376
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "175", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "75", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 28, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.016833525075469424, 
+                    "2016-11-15_18.00.41.687000", 
+                    249.06752, 
+                    249.08624000000006
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9834663779352582, 
+                    "2016-11-15_18.00.39.687000", 
+                    247.07071999999999, 
+                    247.08632
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.0151135658499015, 
+                    "2016-11-15_18.00.45.686000", 
+                    253.06111999999999, 
+                    253.08504000000005
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "175", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "75", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 29, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.01575356505838954, 
+                    "2016-11-15_18.00.50.750000", 
+                    258.11968000000002, 
+                    258.15088000000003
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9830363108342794, 
+                    "2016-11-15_18.00.48.751000", 
+                    256.12288000000001, 
+                    256.15096000000005
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015267536674003, 
+                    "2016-11-15_18.00.54.750000", 
+                    262.11327999999997, 
+                    262.14968000000005
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "250", 
+            "rotation [deg]": "270.0", 
+            "min_intensity": "0", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }, 
+        {
+            "count": 30, 
+            "name": "stimuli.default.Grating", 
+            "triggers": {
+                "1": [
+                    "start stimulus", 
+                    0.01607263712759277, 
+                    "2016-11-15_18.00.59.815000", 
+                    267.17183999999997, 
+                    267.21448000000004
+                ], 
+                "0": [
+                    "build stimulus", 
+                    -1.9833668225028305, 
+                    "2016-11-15_18.00.57.816000", 
+                    265.17504000000002, 
+                    265.21560000000005
+                ], 
+                "2": [
+                    "stop stimulus", 
+                    4.015111710779706, 
+                    "2016-11-15_18.01.03.814000", 
+                    271.16543999999999, 
+                    271.21328000000005
+                ]
+            }, 
+            "wavelength [deg]": "30.0", 
+            "max_intensity": "150", 
+            "rotation [deg]": "90.0", 
+            "min_intensity": "100", 
+            "start pause [sec]": 2.0, 
+            "velocity [deg/s]": "30.0", 
+            "mode [sq/sin]": "sin", 
+            "stimulus duration [s]": "4.0", 
+            "genotype": 0
+        }
+    ]
+}
